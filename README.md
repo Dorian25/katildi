@@ -1,4 +1,4 @@
-# katildi
+# katudi
 Speech-to-Text/ Automatic Speech Recognition (ASR) to help misunderstood people.
 
 ### "What did he/she say ?"
