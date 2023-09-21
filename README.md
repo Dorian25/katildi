@@ -1,11 +1,11 @@
 # katildi
-Speech-to-Text/ Automatic Speech Recognition (ASR) for 
+Speech-to-Text/ Automatic Speech Recognition (ASR) to help misunderstood people.
 
-### "What did he say ?"
+### "What did he/she say ?"
 
 The famous question that comes up again and again when the interlocutor points out in the mouths of people who don't take the time to listen to the person. They choose the easy way out, ignorance rather than listening and caring.
 
-### Listen to Understand
+*Listen to Understand*, could be the answer to the question.
 
 [Benchmarking Top Open Source Speech Recognition Models: Whisper, Facebook Wav2vec2, And Kaldi](https://deepgram.com/learn/benchmarking-top-open-source-speech-models)
 
