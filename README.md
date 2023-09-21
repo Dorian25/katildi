@@ -11,6 +11,9 @@ The famous question that comes up again and again when the interlocutor points o
 
 [Benchmarking Top Open Source Speech Recognition Models: Whisper, Facebook Wav2vec2, And Kaldi](https://deepgram.com/learn/benchmarking-top-open-source-speech-models)
 
+
+Automatic Speech Recognition or ASR, as it's known in short, is the technology that allows human beings to use their voices to speak with a computer interface in a way that, in its most sophisticated variations, resembles normal human conversation.
+
 ## wav2vec
 Finetuning -> [link1](https://huggingface.co/blog/fine-tune-wav2vec2-english), [link2](https://medium.com/@gitau_am/from-raw-data-to-accurate-speech-recognition-asr-my-journey-of-data-preparation-df3a1b0dee3a)
 
