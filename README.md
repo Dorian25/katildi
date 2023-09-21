@@ -1,4 +1,6 @@
 # katudi
+![image](https://github.com/Dorian25/katudi/assets/32178615/8d9d53ad-4665-4f6f-831e-605b73ffbb52)
+
 Speech-to-Text/ Automatic Speech Recognition (ASR) to help misunderstood people.
 
 ### "What did he/she say ?"
